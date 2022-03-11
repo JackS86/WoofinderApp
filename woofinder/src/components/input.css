@@ -1,0 +1,32 @@
+
+
+
+input{
+    display: flex;
+    padding: 15px;
+    margin: 5px 0px;
+    width:600px;
+    border-radius:25px ;
+    -webkit-border-radius:25px ;
+    -moz-border-radius:25px ;
+    -ms-border-radius:25px ;
+    -o-border-radius:25px ;
+    border:1px solid #e2e2e2;
+}
+
+.error{
+    font-size: 12px;
+    padding: 3px;
+    color:rgb(255, 0, 0);
+    display: none;
+}
+
+input:invalid[focused="true"]{
+    border:1px solid red;
+}
+
+
+input:invalid ~.error{
+    display: block;
+}
+

@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "name": "Warszawa"
+    },
+    {
+        "id": "2",
+        "name": "Kraków"
+    },
+    {
+        "id": "3",
+        "name": "Łódź"
+    },
+    {
+        "id": "4",
+        "name": "Wrocław"
+    },
+    {
+        "id": "5",
+        "name": "Poznań"
+    },
+    {
+        "id": "6",
+        "name": "Gdańsk"
+    },
+    {
+        "id": "7",
+        "name": "Szczecin"
+    },
+    {
+        "id": "8",
+        "name": "Bydgoszcz"
+    },
+    {
+        "id": "9",
+        "name": "Lublin"
+    },
+    {
+        "id": "10",
+        "name": "Białystok"
+    },
+    {
+        "id": "11",
+        "name": "Zielona Góra"
+    },
+    {
+        "id": "12",
+        "name": "Świnoujście"
+    },
+    {
+        "id": "13",
+        "name": "Dąbrowa Górnicza"
+    },
+    {
+        "id": "14",
+        "name": "Katowice"
+    },
+    {
+        "id": "15",
+        "name": "Gdynia"
+    },
+    {
+        "id": "16",
+        "name": "Częstochowa"
+    },
+    {
+        "id": "17",
+        "name": "Radom"
+    },
+    {
+        "id": "18",
+        "name": "Sosnowiec"
+    },
+    {
+        "id": "19",
+        "name": "Toruń"
+    },
+    {
+        "id": "20",
+        "name": "Kielce"
+    },
+    {
+        "id": "21",
+        "name": "Rzeszów"
+    },
+    {
+        "id": "22",
+        "name": "Gliwice"
+    },
+    {
+        "id": "23",
+        "name": "Zabrze"
+    },
+    {
+        "id": "24",
+        "name": "Olsztyn"
+    },
+    {
+        "id": "25",
+        "name": "Bielsko-Biała"
+    },
+    {
+        "id": "26",
+        "name": "Bytom"
+    },
+    {
+        "id": "27",
+        "name": "Rybnik"
+    },
+    {
+        "id": "28",
+        "name": "Ruda Śląska"
+    },
+    {
+        "id": "30",
+        "name": "Tychy"
+    },
+    {
+        "id": "31",
+        "name": "Opole"
+    },
+    {
+        "id": "32",
+        "name": "Gorzów Wielkopolski"
+    },
+    {
+        "id": "33",
+        "name": "Lipiany"
+    },
+    {
+        "id": "34",
+        "name": "Sopot"
+    },
+    {
+        "id": "35",
+        "name": "Kęty"
+    },
+    {
+        "id": "36",
+        "name": "Ciechocinek"
+    }
+]

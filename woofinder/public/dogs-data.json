@@ -1,0 +1,166 @@
+[
+    {
+        "id": "1",
+        "name": "Kundel"
+    },
+    {
+        "id": "2",
+        "name": "Airedale terrier"
+    },
+    {
+        "id": "3",
+        "name": "Akita"
+    },
+    {
+        "id": "4",
+        "name": "Akita amerykańska"
+    },
+    {
+        "id": "5",
+        "name": "Alaskan malamute"
+    },
+    {
+        "id": "6",
+        "name": "Australian cattle dog"
+    },
+    {
+        "id": "7",
+        "name": "Barbet"
+    },
+    {
+        "id": "8",
+        "name": "Beagle"
+    },
+    {
+        "id": "9",
+        "name": "Basset hound"
+    },
+    {
+        "id": "10",
+        "name": "Bearded collie"
+    },
+    {
+        "id": "11",
+        "name": "Bernardyn"
+    },
+    {
+        "id": "12",
+        "name": "Berneński pies pasterski"
+    },
+    {
+        "id": "13",
+        "name": "Biały owczarek szwajcarskia"
+    },
+    {
+        "id": "14",
+        "name": "Bokser"
+    },
+    {
+        "id": "15",
+        "name": "Bolończyk"
+    },
+    {
+        "id": "16",
+        "name": "Borzoj"
+    },
+    {
+        "id": "17",
+        "name": "Bulmastif"
+    },
+    {
+        "id": "18",
+        "name": "Bulterier"
+    },
+    {
+        "id": "19",
+        "name": "Buldog angielski"
+    },
+    {
+        "id": "20",
+        "name": "Buldog francuski"
+    },
+    {
+        "id": "21",
+        "name": "Charcik włoski"
+    },
+    {
+        "id": "22",
+        "name": "Chart arabski"
+    },
+    {
+        "id": "23",
+        "name": "Cocker spaniel angielski"
+    },
+    {
+        "id": "24",
+        "name": "Chihuahua"
+    },
+    {
+        "id": "25",
+        "name": "Cocker spaniel amerykański"
+    },
+    {
+        "id": "26",
+        "name": "Karelski pies na niedźwiedzie"
+    },
+    {
+        "id": "27",
+        "name": "Labrador"
+    },
+    {
+        "id": "28",
+        "name": "Pies hokkaido"
+    },
+    {
+        "id": "30",
+        "name": "Shiba"
+    },
+    {
+        "id": "31",
+        "name": "Terier szkocki"
+    },
+    {
+        "id": "32",
+        "name": "Rottweiler"
+    },
+    {
+        "id": "33",
+        "name": "Mops"
+    },
+    {
+        "id": "34",
+        "name": "Ogar polski"
+    },
+    {
+        "id": "35",
+        "name": "Owczarek niemiecki"
+    },
+    {
+        "id": "36",
+        "name": "Owczarek australijski"
+    },
+    {
+        "id": "37",
+        "name": "Owczarek podhalański"
+    },
+    {
+        "id": "38",
+        "name": "Owczarek środkowoazjatycki"
+    },
+    {
+        "id": "39",
+        "name": "Owczarek szetlandzki"
+    },
+    {
+        "id": "40",
+        "name": "Husky syberyjski"
+    },
+    {
+        "id": "41",
+        "name": "Jack russell terrier"
+    },
+    {
+        "id": "42",
+        "name": "Jamnik"
+    }
+]
